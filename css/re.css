@@ -1,0 +1,138 @@
+/*注册*/
+.login{
+	width:1200px;
+	margin:0 auto;
+	overflow:hidden;
+	padding-top: 60px;
+}
+
+.r1>span:nth-child(1){
+	font-size:25px;
+	display:block;
+	margin:20px 0 0;
+	color:#1a3880;
+	font-weight:bold;
+	text-align:center;
+}
+.login2{
+	width:70%;
+	margin:0 auto;
+}
+.login2>div{
+	margin-top:10px;
+}
+.login2>div:nth-child(7){
+
+}
+.login2>div:nth-child(7)>input{
+	width:248px;
+	float:left;
+}
+.login2>div:nth-child(7)>span{
+	float:right;
+	width:100px;
+	height:30px;
+	border-radius:7px;
+	background-color:#959393;
+	color:#fff;
+	line-height:30px;
+
+}
+
+.login1{
+	text-align:center;
+	width:500px;
+	float:left;
+	background-color:#fff;
+}
+.r1>.input{
+	border-radius:10px;
+	border:1px solid #959393;
+	background-color:#959393;
+	height:30px;
+
+}
+.r1>.input>input{
+	height:30px;
+	width:285px;
+	outline:none;
+	color:#fff;
+	border:none;
+	background-color:transparent;
+	float:right;
+
+}
+.login2{
+	overflow:hidden;
+	padding:20px 0;
+}
+
+.login-img{
+	padding:0 100px 0 50px;
+	float:left;
+	width:470px;
+}
+
+
+
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: #fff;  
+}
+
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: #fff;
+}
+
+input:-ms-input-placeholder,
+textarea:-ms-input-placeholder {
+    color: #fff;
+}
+
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+    color: #fff;
+}
+
+
+.reg>div{
+	text-align:center;
+
+}
+
+.yzm3>span{
+	float:right;
+}
+.yzm3>span>a{
+	color:#000;
+}
+.diqu{
+text-align:center;
+}
+.diqu>select{
+	margin:10px 15px;
+}
+.chek{
+	overflow:hidden;
+}
+.chek-left{
+	float:left;
+}
+.chek-right{
+	float:right;
+}
+.chek-right>span{
+	width:100px;
+	height:30px;
+	background:#959393;
+	border-radius:10px;
+	text-align:center;
+	line-height:30px;
+	color:#fff;
+	float:right;
+}
+
+.input>span{
+	font-size:10px;
+	color:#fff;
+	line-height: 30px;
+}

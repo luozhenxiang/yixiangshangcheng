@@ -1,0 +1,176 @@
+.order{
+	width:1200px;
+	margin:30px auto;
+	overflow:hidden;
+}
+.order-ri{
+	width:80%;
+	float:left;
+	background-color:#fff;
+	
+}
+
+
+.tr{
+	border:1px solid #ddd;
+	background-color:#fff;
+}
+.tr>td>span{color:#f00;}
+tbody>tr>td:nth-child(1){
+	/*float:left;*/
+	width:35%;
+}
+.td-an{
+	overflow:hidden;
+	margin-right:-50px;
+}
+.td-an>li{
+	float:left;
+}
+.td-an>li>input{
+	width:20px;
+	text-align:center;
+}
+.tr-c{
+	background-color:#f1f1f1;
+}
+
+.order-details{
+	margin:30px auto 0;
+}
+.order-details>li:nth-child(1){
+	width:45%;
+	float:left;
+}
+.order-details>li:nth-child(2){
+	width:20%;
+	float:right;
+}
+
+.float-l{
+	overflow:hidden;
+}
+.float-l>div{
+	float:left;
+	margin-left:30px;
+}
+.sh-add{
+	margin:20px;
+	overflow:hidden;
+}
+.add-left{
+	float:left;
+}
+.add-right{
+	float:left;
+}
+.mr{
+	border:1px solid #f00;
+}
+.weixuan{
+	border:1px solid #000;
+}
+.add-1{
+	width:180px;
+	line-height:25px;
+	padding:10px;
+	float:left;
+	margin:5px;
+}
+.add-right{
+	width:30%;
+	margin-top:30px;
+}
+.add-right>ul{
+	overflow:hidden;
+}
+.add-right>ul>li{
+	float:right;
+	line-height:25px;
+}
+.add-right>div{
+	float:right;	
+}
+.add-right>div>span{
+	background-color:#f00;
+	line-height:30px;
+	font-size:15px;
+	color:#fff;
+	padding:5px;
+}
+.address-ul>li{
+	float:right;
+}
+
+.ul-b>li:nth-child(1)>a{
+	background-color:#ffca01;
+}
+
+
+
+
+
+
+
+.pur-ul>ul:nth-child(1){
+	line-height: 30px;
+	background-color:#1a3880;
+	color:#fff;
+}
+.pur-ul>ul:nth-child(2){
+	margin-top:0;
+}
+.pur-ul>ul{
+	overflow:hidden;
+	width:90%;
+	margin:0px auto 0;
+	border:1px solid #ddd;
+}
+.ul-in>li:nth-child(1),.ul-i>li:nth-child(1){
+	width:260px;
+}
+.pur-ul>ul>li{
+	float:left;
+	width:120px;
+	text-align:center;
+}
+.pur-ul>ul>li:nth-child(1){
+	float:left;
+	text-align:center;
+}
+
+.ul-in>li>div:nth-child(3){
+	width:130px;
+	float:right;
+}
+
+.pur-ul>ul:nth-child(2){
+	margin-top:30px;
+}
+.pur-ul>ul:nth-child(4){
+	margin-top:30px;
+}
+.ul-in>li{
+padding:0;
+}
+.ul-in>li:nth-child(1)>span:nth-child(1){
+	line-height: 90px;float:left;
+}
+.ul-in>li{
+	padding:25px 0;
+}
+
+
+.ul-in span{
+	color:#f00;
+}
+.td-an{
+	overflow:hidden;
+	text-align:center;
+}
+.td-an>li{
+	float:left;
+}
+.td-an>li>input{
+	width:20px;
+}

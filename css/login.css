@@ -1,0 +1,120 @@
+/*登录*/
+.login{
+	width:1200px;
+	margin:0 auto;
+	overflow:hidden;
+	padding-top: 60px;
+}
+
+.r1>span:nth-child(1){
+	font-size:25px;
+	display:block;
+	margin:20px 0 0;
+	color:#1a3880;
+	font-weight:bold;
+	text-align:center;
+}
+.login2{
+	width:70%;
+	margin:0 auto;
+}
+.login2>div{
+	margin-top:30px;
+}
+.login2>div>span{
+	width:65px;
+	height:25px;
+	border-radius:7px;
+	background-color:#959393;
+	color:#fff;
+	line-height:25px;
+	margin-right:80px;
+
+
+}
+.login1{
+	text-align:center;
+	width:500px;
+	float:left;
+	background-color:#fff;
+}
+.r1>.input{
+	border-radius:10px;
+	border:1px solid #959393;
+	background-color:#959393;
+	height:30px;
+}
+.r1>.input>input{
+	height:25px;
+	width:308px;
+	outline:none;
+	color:#fff;
+	border:none;
+	background-color:transparent;
+	float:right;
+
+}
+.login2{
+	overflow:hidden;
+	padding:90px 0;
+}
+.login2>.lo{
+	float:left;
+	
+}
+.login2>div>i{
+	width:28px;
+	height:28px;
+
+}
+.login-img{
+	padding:0 100px 0 50px;
+	float:left;
+	width:470px;
+}
+
+.user1{
+	width:30px;
+	height:28px;
+	background: url(../image/icon.png) no-repeat 0px  -22px;
+	border-right:2px solid #fff; 
+}
+.pwd{
+	background: url(../image/icon.png) no-repeat -42px  -22px;
+	border-right:2px solid #fff; 
+}
+
+.qq{
+	background: url(../image/icon.png) no-repeat -84px -22px;
+}
+
+.weixi{
+	background: url(../image/icon.png) no-repeat -129px -22px;
+	}
+
+.weibo{
+	background: url(../image/icon.png) no-repeat -176px -22px;
+	}
+
+
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: #fff;  
+}
+
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: #fff;
+}
+
+input:-ms-input-placeholder,
+textarea:-ms-input-placeholder {
+    color: #fff;
+}
+
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+    color: #fff;
+}
+
+
+
+

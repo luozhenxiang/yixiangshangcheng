@@ -1,0 +1,413 @@
+body{
+	margin:0 auto;
+	padding:0;
+}
+div,ul,ol,li,i,span,a{
+	margin:0;
+	padding:0;
+}
+img {
+	width: 100%;
+	height: auto;
+	display: block;
+}
+ul,ol,li{
+	list-style:none;
+}
+i,span{
+	display:inline-block;
+}
+body{
+	background-color:#eeeeee;
+}
+a{
+	text-decoration:none;
+
+}
+a:hover {background-color:#ffca01;};
+.containar{
+	min-width:1200px;
+	
+}
+
+/*导航条内容*/
+.header>.nav{
+	background-color:#000;
+}
+/*导航条内容宽度*/
+.naving{
+	width:1200px;
+	margin:0 auto;
+	overflow:hidden;
+}
+.naving>ul>li{
+	float:left;
+	color:#fff;
+	line-height:30px;
+	margin-left:20px
+}
+/*导航条内容左边*/
+.nav-left{ 
+	float:left;
+ }
+
+/*导航条内容右边*/
+.nav-right{
+	float:right;
+
+}
+/*导航条图标*/
+.nav-right>li>i{
+	width:20px;
+	height:16px;
+	position:relative;
+	top:5px;
+	left:2px;
+	
+}
+.nav-right>li>a{
+	color:#fff;
+}
+.user{
+	background: url(../image/icon.png) no-repeat 0px 0px;
+}
+.xing{
+	background:url(../image/icon.png) no-repeat -33px 0px;
+}
+.shopp{
+	background:url(../image/icon.png) no-repeat -64px 0px;
+}
+
+.container{
+	overflow:hidden;
+}
+
+/*logo*/
+.logo{
+	overflow:hidden;
+	margin:10px auto;
+	
+	
+}
+/*搜索*/
+.search-body{
+	position:relative;
+	width:1200px;
+	margin:0 auto;
+
+}
+.search-bo{
+	margin:30px 0;
+}
+
+.search-body-leftImg{
+/*	position: absolute;
+	top:30px;
+	left: 0;*/
+	float:left;
+}
+.search-body-leftImg>.logo1{
+	float:left;
+}
+.search-body-leftImg>.wz{
+	float:left;
+	width:100px;
+	line-height: 45px;
+	font-weight:bold;
+	font-size:20px;
+}
+.logo2{
+
+}
+.search-body .logo2 {
+	/*position: absolute;
+	top:30px;
+	right: 0;*/
+	width:115px;
+	float:right;
+}
+.search-box{
+	width:460px;
+	margin:0 auto;
+	/*padding-top: 50px;*/
+	padding:15px 0;
+
+}
+.search{
+	border: 1px solid #1a3880;
+	overflow:hidden;
+	
+}
+.search>input{
+	width:390px;
+	padding-left:5px;
+	height:25px;
+	float:left;
+	border:none;
+	padding-top:0;
+	padding-bottom:0;
+	outline:none;
+}
+
+.search>span{
+	float:left;
+	width:63px;
+	height:25px;
+	text-align:center;
+	color:#fff;
+	background-color:#1a3880;
+	line-height:25px;
+	font-weight:bold;
+}
+.tabs>ul{
+	overflow:hidden;
+}
+
+.tabs>ul>li:nth-child(1){
+	color:#0e2860;
+}
+.tabs>ul>li{
+	float:left;
+	width:100px;
+	text-align:center;
+	font-size:16px;
+	line-height: 60px
+}
+
+/* main-nav 导航*/
+.main-nav{
+	height:50px;
+	background-color:#1a3880;
+}
+
+.main-nav>.dir{
+	width:1200px;
+	margin:0 auto;
+	height: 100%;
+}
+
+.dir1>ul>li{
+	float:left;
+	color:#fff;
+}
+.dir2{
+	overflow:hidden;
+}
+.dir2>li>a{
+	color:#fff;
+	width:100px;
+	text-align:center;
+	line-height:50px;
+	display:inline-block;
+
+}
+.Carousel{
+	width:100%;
+	height:auto;
+}
+.Carousel>img{
+	width:100%;
+	height:auto;
+}
+
+
+.footer{
+	margin-top:25px;
+	background-color:#1a3880;
+}
+.footer-top>ul{
+	width:1200px;
+	margin:0px auto;
+	overflow:hidden;
+	color:#fff;
+}
+.footer-top>ul>li{
+	float:left;
+	width:240px;
+	text-align: center;
+	line-height:30px
+}
+.footer-a{
+	margin:20px 0;
+}
+.footer-a>li>a{
+	color:#fff;
+
+}
+
+.copyright{ 
+	background-color:#000;
+	height:30px;
+ }
+.copyright>div{
+	width:1200px;
+	margin:0 auto;
+	text-align:center;
+	color:#fff;
+	font-size:12px;
+	line-height:30px;
+} 
+/*个人中心导航*/
+.user1-left{
+	width:20%;
+	float:left;
+}
+.user1-left>ul{
+	float:left;
+}
+
+.user1-left>ul>li{
+	font-size:20px;
+	margin:0px 22px 15px; 
+	list-style:disc;
+}
+
+/*蓝色导航条*/
+.k{
+	height:50px;
+	font-size:20px;
+	background-color:#1a3880;
+	line-height:50px;
+	color:#fff;
+	
+
+
+}
+.k>ul{
+	overflow:hidden;
+	padding:0 10px;
+}
+.k>ul>li:nth-child(1){
+	
+	float:left;
+}
+.k>ul>li:nth-child(2){
+	float:right;
+}
+
+
+/* 白色背景色 */
+.zl{
+	overflow:hidden;
+	background-color:#fff;
+}
+.ul-a>li>a{
+	color:#000;
+}
+.ul-b>li>a{
+	color:#000;
+}
+.ul-c>li>a{
+	color:#000;
+}
+/*分页*/
+.page{
+	overflow:hidden;
+}
+.page>ul{
+	float:right;
+	margin-right:20px;
+}
+.page>ul>li{
+	float:left;
+	margin:20px 5px;
+	width:20px;
+	border: 1px solid #cccccc;
+	text-align:center;
+
+}
+
+/*轮播*/
+ .flexslider {
+        margin: 0px auto 20px;
+        position: relative;
+        min-width: 1200px;
+        max-width:1920px;
+        height: 450px;
+        overflow: hidden;
+        zoom: 1;
+    }
+    
+    .flexslider .slides li {
+        width: 100%;
+        height: 100%;
+    }
+
+    
+    .flex-direction-nav a {
+        width: 70px;
+        height: 70px;
+        line-height: 99em;
+        overflow: hidden;
+        margin: -35px 0 0;
+        display: block;
+        background: url(../images/ad_ctr.png) no-repeat;
+        position: absolute;
+        top: 50%;
+        z-index: 10;
+        cursor: pointer;
+        opacity: 0;
+        filter: alpha(opacity=0);
+        -webkit-transition: all .3s ease;
+        border-radius: 35px;
+    }
+    
+    .flex-direction-nav .flex-next {
+        background-position: 0 -70px;
+        right: 0;
+    }
+    
+    .flex-direction-nav .flex-prev {
+        left: 0;
+    }
+    
+    .flexslider:hover .flex-next {
+        opacity: 0.8;
+        filter: alpha(opacity=25);
+    }
+    
+    .flexslider:hover .flex-prev {
+        opacity: 0.8;
+        filter: alpha(opacity=25);
+    }
+    
+    .flexslider:hover .flex-next:hover,
+    .flexslider:hover .flex-prev:hover {
+        opacity: 1;
+        filter: alpha(opacity=50);
+    }
+    
+    .flex-control-nav {
+        width: 100%;
+        position: absolute;
+        bottom: 10px;
+        text-align: center;
+    }
+    
+    .flex-control-nav li {
+        margin: 0 2px;
+        display: inline-block;
+        zoom: 1;
+        *display: inline;
+    }
+    
+    .flex-control-paging li a {
+        background: url(../images/dot.png) no-repeat 0 -16px;
+        display: block;
+        height: 16px;
+        overflow: hidden;
+        text-indent: -99em;
+        width: 16px;
+        cursor: pointer;
+    }
+    
+    .flex-control-paging li a.flex-active,
+    .flex-control-paging li.active a {
+        background-position: 0 0;
+    }
+    
+    .flexslider .slides a img {
+        width: 100%;
+        height:450px;
+        display: block;
+    }

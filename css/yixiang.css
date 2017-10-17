@@ -1,0 +1,196 @@
+
+/*新品推荐*/
+.new{
+	width:1200px;
+	margin:10px auto ;
+	overflow:hidden;
+	
+
+}
+
+.wzk{
+	color:#112f71;
+	border-bottom:2px solid  #717171;
+	margin:20px 0;
+}
+.lsk{
+	width:13px;
+	height:35px;
+	background-color:#1a3880;
+}
+.new-ce{
+	overflow:hidden;
+	margin:20px 0;
+
+}
+.new-left{	
+	float:left;
+	width:515px;
+	border:1px solid #717171;
+	
+}
+
+.new-left>img{
+	width:100%;
+	height:auto;
+	display: block;
+}
+.new-right{
+	float: right;
+	width:665px;
+}
+
+.scooter{
+	overflow:hidden;
+		
+}
+
+.scooter>li{
+	float:left;
+	width:322px;
+	margin-right: 20px;
+
+}
+.scooter>li:nth-child(2){
+	margin-right:0;
+
+}
+.scooter>li:nth-child(3){
+	margin-top:48px;
+
+}
+.scooter>li:nth-child(4){
+	margin-top:48px;
+	margin-right:0;
+
+}
+
+.sco{
+	background-color:#fff;
+	border:1px solid #717171;
+	/*margin-left:20px;*/
+}
+.scooter2-img{
+	width:300px;
+	margin:0 auto;
+}
+.scooter2-img>img{
+	width:100%;
+	height:auto;
+	display: block;
+}
+
+.scooter-style{
+	margin-top:10px;
+	margin-bottom:11px;
+	text-align:center;
+	line-height:24px;
+}
+.scooter-style>div:nth-child(1){
+	font-size:16px;
+}
+.scooter-style>div:nth-child(2){
+	font-size:14px;
+}
+.scooter-style>div:nth-child(3){
+	font-size:14px;
+	color:#c20000;
+}
+
+/*广告*/
+.advert{
+	width:1200px;
+	margin:0 auto;
+}
+.advert>img{
+	width:100%;
+	height:auto;
+}
+
+
+/*爆款产品*/
+.fashion-box{
+	width:1200px;
+	margin:0px auto 30px;
+	overflow:hidden;
+}
+
+.fashion-box>ul>li{
+	float:left;
+	margin-top:30px;
+	width:25%;
+
+	
+}
+.fashion-box>ul{
+	overflow:hidden;
+}
+
+.scooter3{
+	background-color:#fff;
+	border:1px solid #ddd;
+	width:280px;
+	height:376px;
+	float:left;
+	margin:0 10px;
+}
+.scooter3-img{
+	width:280px;
+}
+.scooter3-img>img{
+	width:100%;
+	height:auto;
+}
+.scooter3>ul>li{
+	text-align:center;
+	margin:20px;
+	font-size: 15px;
+}
+
+.scooter3>ul>span{
+	width:80px;
+	margin:0 auto;
+	text-align:center;
+	line-height:40px;
+	color:#fff;
+	display:block;
+	background-color:#153078;
+}
+
+
+/*热销产品*/
+.hot{
+	width:1200px;
+	margin:0 auto;
+}
+.hot-cen{
+	overflow:hidden;
+}
+.hot-left{
+	width:515px;
+	height:971px;
+	background-color:#fff;
+	padding:0 5px;
+	float:left;
+	border:1px solid #717171;
+}
+.hot-img{
+	width:505px;
+}
+.hot-img>img{
+	width:100%;
+	height:auto;
+}
+
+.hot-right{
+	width:665px;
+	float:right;
+}
+.hr{
+	border-bottom:1px dashed #c1c1c1;
+	padding-bottom:30px;
+}
+
+.dir2>li:nth-child(2)>a{
+	background-color:#ffca01;
+}
